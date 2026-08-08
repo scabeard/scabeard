@@ -1,3 +1,7 @@
+<p align="center">
+  <img src="https://raw.githubusercontent.com/scabeard/scabeard/main/assets/banner.svg" width="100%" />
+</p>
+
 <h1 align="center">>_ scabeard</h1>
 
 <p align="center">
